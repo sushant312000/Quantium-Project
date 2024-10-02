@@ -14,3 +14,6 @@ Create visualizations and prepare findings to formulate a clear recommendation f
 - Learned to identify customer segments based on purchasing behavior. 
 - Gained experience in creating charts and graphs to present data insights.
 - Learned how to derive commercial recommendations from data analysis.
+
+### Completion certificate
+![image](https://github.com/user-attachments/assets/cec39669-e5a9-438e-b201-a489e53bdbf1)
